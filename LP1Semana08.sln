@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGame", "MiniGame\MiniGame.csproj", "{43804BD9-D973-462A-957A-167FD46BDC3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnits", "GameUnits\GameUnits.csproj", "{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{43804BD9-D973-462A-957A-167FD46BDC3E}.Release|x64.Build.0 = Release|Any CPU
 		{43804BD9-D973-462A-957A-167FD46BDC3E}.Release|x86.ActiveCfg = Release|Any CPU
 		{43804BD9-D973-462A-957A-167FD46BDC3E}.Release|x86.Build.0 = Release|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Debug|x64.Build.0 = Debug|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Debug|x86.Build.0 = Debug|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Release|x64.ActiveCfg = Release|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Release|x64.Build.0 = Release|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Release|x86.ActiveCfg = Release|Any CPU
+		{39F3160B-7B1A-4B9B-8B1A-78FBCDA5924B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
