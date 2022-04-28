@@ -18,5 +18,9 @@ namespace GameUnits
         {
             Console.WriteLine($"Unit moved:{v.X} | {v.Y} places");
         }
+        public override string ToString()
+        {
+            return $"Health = {Health} | Value = {Value}";
+        }
     }
 }

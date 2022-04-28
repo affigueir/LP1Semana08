@@ -15,6 +15,8 @@ namespace GameUnits
             
             Console.WriteLine($"Bob Health = {bob.Health} | Bob Value = {bob.Value}");
             Console.WriteLine($"Billy Health = {billy.Health} | Billy Value = {billy.Value}");
+            Console.WriteLine(bob.ToString());
+            Console.WriteLine(billy.ToString());
         }
         
     }
